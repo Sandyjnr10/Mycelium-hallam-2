@@ -1,0 +1,16 @@
+/* CSS code */
+.w3-sidebar {
+  padding-top: 50px; /* add some padding to the top of the sidebar */
+}
+
+.w3-bar-item {
+  margin-bottom: 50px; /* add a margin of 10 pixels between each button */
+  padding: 50px; /* add some padding to the buttons themselves */
+}
+/* CSS code */
+.w3-bar-item {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: yellow;
+  color: white; /* set the text color to white */
+}
